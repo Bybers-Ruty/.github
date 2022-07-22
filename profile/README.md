@@ -1,12 +1,49 @@
-## Hi there 👋
+# Ruty 👋
 
-<!--
+## Nome do time 
+<h2> Bybers </h2>
 
-**Here are some ideas to get you started:**
+## Nome do projeto
+<h2> Ruty </h2>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Proposta principal
+  Planejamento & Monitoragem do dia-a-dia para apoio à saúde mental.
+
+## Justificativa
+  Para a melhora da saúde mental, a aplicação vai ser construída para que o usuário tenha a possibilidade de compartilhar as informações relativas ao seu dia-a-dia com o seu psicólogo(a) de maneira prática/straightforward.
+
+## Funcionalidades
+- Relatório para o psicólogo.
+- Envio automático do relatório.
+- "Como foi a semana do paciente?".
+- Gráfico com relação dos tipos de tarefas -> Trabalho/Lazer/Domésticos
+- Sentimento da dia/semana -> ícone fofinhos EMOJI
+- Mensagens motivacionais durante tarefas.
+- Integração com serviços de calendários mais usados para mobile
+  - Google Calendar
+  - Android ?
+  - Iphone?
+- "Evento Importante"
+  - Usuário descreve algum evento importante que tenha forte impacto negativamente/postiviamente no dia
+
+## Próximos passos
+- UX/UI definition -> Frontend - Raquel
+- Validação da ideia -> Raquel
+- Definição de stack
+  - Frontend
+    - Usar a stack da hacka
+      - Styled component
+      - React
+      - Typescript
+      - Test -> TO BE DEFINED
+
+  - Backend
+    - Flask
+    - Alchemy
+    - Test -> TO BE DEFINED
+
+  - Devops
+    - Banco -> TO BE DEFINED
+    - Docker
+    - Github
+    - Terraform
