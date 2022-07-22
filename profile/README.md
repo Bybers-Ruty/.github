@@ -35,15 +35,15 @@
       - Styled component
       - React
       - Typescript
-      - Test -> TO BE DEFINED
+      - Test --> Cypress(talvez)
 
   - Backend
     - Flask
     - SQL Alchemy
-    - Test -> TO BE DEFINED
-
+    - Test --> Pytest
+  -Banco de Dados
+    - MySQL
   - Devops
-    - Banco -> TO BE DEFINED
     - Docker
     - Github
     - Terraform
