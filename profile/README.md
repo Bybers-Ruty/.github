@@ -39,7 +39,7 @@
 
   - Backend
     - Flask
-    - Alchemy
+    - SQL Alchemy
     - Test -> TO BE DEFINED
 
   - Devops
